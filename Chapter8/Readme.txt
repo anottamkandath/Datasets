@@ -1,0 +1,1 @@
+This folder contains the Java code which was used in Chapter 8 of the thesis on the Steve.Museum graph dataset.
