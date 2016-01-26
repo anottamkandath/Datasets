@@ -1,0 +1,1 @@
+This folder contains the experimental results from Chapter 6 of the thesis where we present three different algorithms to compute the quality of annotations.

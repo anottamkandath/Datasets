@@ -1,0 +1,1 @@
+This folder contains the experimental results from Chapter 3 of the thesis where we use subjective logic and semantic similarity measures for determining the quality of annotations provided to Steve.Museum dataset.
