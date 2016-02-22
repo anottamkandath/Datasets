@@ -4,3 +4,8 @@ This folder contains the RDF version of Steve.Museum dataset. The description of
 	•	annotationsInWikipedia.rdf contains the annotations which were found in Wikipedia.
 	•	annotationsInWikipediaCreators.rdf contains the annotations which were found in the Wikipedia page of creator of the artefact.
 	•	ulan_creators.rdf contains the enrichment of the creator information from ULAN. 
+	•	binomial.rdf contains annotations with reviews usefulness-useful and usefulness-not_useful.
+	•	fourclasses.rdf contains annotations with four review classes: usefulness-useful, usefulness-not_useful, problematic and judgement.
+
+
+
